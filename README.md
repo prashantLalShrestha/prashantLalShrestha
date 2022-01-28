@@ -14,8 +14,6 @@
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantLalShrestha&hide=jupyter%20notebook&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
 ##### Some of the technologies I have worked with
 
 ![iOS](https://img.shields.io/badge/-ios?style=flat&logo=ios&logoColor=FFFFFF)
